@@ -1,0 +1,89 @@
+{
+  "$type": "System.Collections.Generic.List`1[[MyUsers.Customer, MyUsers]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "MyUsers.Customer, MyUsers",
+      "Name": "a",
+      "Cart": {
+        "$type": "MyUsers.Basket, MyUsers",
+        "Products": {
+          "$type": "System.Collections.Generic.List`1[[MyUsers.Product, MyUsers]], System.Private.CoreLib",
+          "$values": [
+            {
+              "$type": "MyUsers.Product, MyUsers",
+              "Name": "Product525",
+              "ID": "903986699",
+              "Manufactorer": "Manufactorer525",
+              "Country": "Tuared",
+              "Quantity": 1550253092,
+              "Price": 1550253092
+            },
+            {
+              "$type": "MyUsers.Product, MyUsers",
+              "Name": "Product0",
+              "ID": "696619660",
+              "Manufactorer": "Manufactorer0",
+              "Country": "Tuared",
+              "Quantity": 875934272,
+              "Price": 875934272
+            },
+            {
+              "$type": "MyUsers.Product, MyUsers",
+              "Name": "Product366",
+              "ID": "163571207",
+              "Manufactorer": "Manufactorer366",
+              "Country": "Tuared",
+              "Quantity": 606991324,
+              "Price": 606991324
+            },
+            {
+              "$type": "MyUsers.Product, MyUsers",
+              "Name": "Product366",
+              "ID": "163571207",
+              "Manufactorer": "Manufactorer366",
+              "Country": "Tuared",
+              "Quantity": 606991324,
+              "Price": 606991324
+            },
+            {
+              "$type": "MyUsers.Product, MyUsers",
+              "Name": "Product366",
+              "ID": "163571207",
+              "Manufactorer": "Manufactorer366",
+              "Country": "Tuared",
+              "Quantity": 606991324,
+              "Price": 606991324
+            }
+          ]
+        }
+      },
+      "Phone": null,
+      "Username": "a",
+      "Password": 896909421,
+      "Address": "a",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[MyUsers.Order, MyUsers]], System.Private.CoreLib",
+        "$values": []
+      }
+    },
+    {
+      "$type": "MyUsers.Customer, MyUsers",
+      "Name": "oleh",
+      "Cart": {
+        "$type": "MyUsers.Basket, MyUsers",
+        "Products": {
+          "$type": "System.Collections.Generic.List`1[[MyUsers.Product, MyUsers]], System.Private.CoreLib",
+          "$values": []
+        }
+      },
+      "Phone": null,
+      "Username": "oleh",
+      "Password": 965042089,
+      "Address": "oleh",
+      "Orders": {
+        "$type": "System.Collections.Generic.List`1[[MyUsers.Order, MyUsers]], System.Private.CoreLib",
+        "$values": []
+      }
+    }
+  ]
+}
